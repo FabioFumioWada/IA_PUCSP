@@ -1,0 +1,6 @@
+c:\users\005614\source\repos\Perceptron\Perceptron\bin\Debug\Perceptron.exe.config
+c:\users\005614\source\repos\Perceptron\Perceptron\bin\Debug\Perceptron.exe
+c:\users\005614\source\repos\Perceptron\Perceptron\bin\Debug\Perceptron.pdb
+c:\users\005614\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.csproj.CoreCompileInputs.cache
+c:\users\005614\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.exe
+c:\users\005614\source\repos\Perceptron\Perceptron\obj\Debug\Perceptron.pdb
